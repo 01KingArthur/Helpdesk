@@ -1,0 +1,34 @@
+[
+  {
+    "id": "admin1",
+    "username": "admin",
+    "password": "$2a$10$rQKpJqZqZqZqZqZqZqZqZu",
+    "role": "admin",
+    "fullname": "Quản trị viên",
+    "email": "minhcuongdo01@gmail.com"
+  },
+  {
+    "id": "user1",
+    "username": "nguyenvana",
+    "password": "$2a$10$rQKpJqZqZqZqZqZqZqZqZu",
+    "role": "staff",
+    "fullname": "Nguyễn Văn A",
+    "email": "nguyenvana@email.com"
+  },
+  {
+    "id": "user2",
+    "username": "minhcuong",
+    "password": "$2a$10$rQKpJqZqZqZqZqZqZqZqZu",
+    "role": "staff",
+    "fullname": "Đỗ Minh Cường",
+    "email": "minhcuongdo03@gmail.com"
+  },
+  {
+    "id": "1776913095732",
+    "username": "NhanvienB",
+    "password": "$2a$10$WOtPXY9Icg.lC7xJ93kgFOu/lkDKkcfrUgmTeNU48pXIQEoR77xfC",
+    "role": "staff",
+    "fullname": "Nhan vien B",
+    "email": "nhanvienb@gmail.com"
+  }
+]
